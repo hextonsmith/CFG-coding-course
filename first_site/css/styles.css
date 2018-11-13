@@ -1,0 +1,19 @@
+h1 {
+  color: red;
+}
+#red{
+  background-color: red;
+  position: absolute;
+  height: 20%;
+  width: 20%;
+  left: 20%;
+  top: 20%;
+}
+#blue{
+  background-color: blue;
+  position: absolute;
+  height: 20%;
+  width: 20%;
+  left: 20%;
+  top: 20%;
+}
